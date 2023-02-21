@@ -31,36 +31,8 @@ const tribes = [
   { name: "dashwood9", lat:12.1, lon:50, size:5, lan:"🇯🇵" },
   { name: "mkk", lat:33, lon:45, size:6, lan:"🇯🇵" },
   { name: "dharius", lat:15.8, lon:71.1, size:6, lan:"🇮🇳" },
-  { name: "grtf", lat:69.6, lon:13.6, size:6, lan:"🇨🇳" },
-  { name: "los-mugiwaras", lat: 	40, lon:85, size:7, lan:"🇲🇽" },
-  { name: "raskolnikov", lat:60.9, lon:33.8, size:6, lan:"🇺🇸" },
-  { name: "chialuc24", lat:70.6, lon:34.0, size:3, lan:"🇲🇽" },
-  { name: "capsule-corp", lat:70, lon:30, size:7, lan:"🇺🇸" },
-  { name: "yoshi", lat:49.6, lon:17.7, size:6, lan:"🇯🇵" },
-  { name: "orthrus", lat:88.7, lon:21.4, size:5, lan:"🇨🇳" },
-  { name: "hug-us", lat:25.2, lon:70.7, size:4, lan:"🇨🇳" },
-  { name: "akatsuki", lat:27, lon:17, size:4, lan:"🇲🇽" },
-  { name: "668-334", lat:64.6, lon:29.1, size:4, lan:"🇨🇳" },
-  { name: "gucchann-maruggo", lat:72.8, lon:84.6, size:3, lan:"🇨🇳" }, //check!
-  { name: "smokedaweed", lat:48, lon:48, size:3, lan:"🇲🇽" },
   { name: "tredmir", lat:84, lon:63, size:3, lan:"🇧🇷" },
-  { name: "mega-dodo", lat:11, lon:11, size:3, lan:"🇯🇵" }, //check!
-  
-  // { name: "korea1", lat:75.4, lon:83.0, size:3, lan:"🇰🇷" },
-  { name: "lamancha", lat:57.4, lon:18.8, size:3, lan:"🇺🇸" },
-  { name: "acupuncture", lat:84.6, lon:21.9, size:3, lan:"🇨🇳" },
-  { name: "makiny", lat:76.2, lon:40.6, size:3, lan:"🇨🇳" },
-  { name: "from", lat:78.9, lon:36, size:3, lan:"🇯🇵" },
-  { name: "tono", lat:46, lon:63, size:3, lan:"🇯🇵" },
-  // { name: "aiden7667", lat:84, lon:57, size:3, lan:"🇺🇸" },
-  { name: "asian7", lat:84.1, lon:81.8, size:3, lan:"🇨🇳" },
-  { name: "asian8", lat:65.8, lon:83.5, size:3, lan:"🇨🇳" },
-  // { name: "maru-ggo", lat:73, lon:84, size:3, lan:"🇨🇳" },
-  { name: "garuzinho", lat:38, lon:17, size:3, lan:"🇧🇷" },
-  { name: "5ep", lat:32.3, lon:17.3, size:2, lan:"🇨🇳" },
-  { name: "order-of-axe", lat:41, lon:66, size:2, lan:"🇺🇸" },
-  { name: "702165", lat:81.7, lon:81.2, size:2, lan:"🇨🇳" },
-]; const updated = "20220106"
+]; const updated = "20230221"
 
 
 const markers = [
