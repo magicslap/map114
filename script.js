@@ -22,16 +22,20 @@ const style = {
 };
 
 const tribes = [
-  { name: "dodoheaven", lat:17.7, lon:63.5, size:9, lan:"🇯🇵" },
-  { name: "cpc", lat:39, lon:25.7, size:9, lan:"🇲🇽" },
-  { name: "syunmatata", lat:61.7, lon:82.8, size:9, lan:"🇨🇳" },
-  { name: "chaos", lat:18.9, lon:81, size:8, lan:"🇺🇸" },
-  { name: "moriorinvictus", lat:78.2, lon:14, size:8, lan:"🇲🇽" },
-  { name: "ascendents", lat:30.1, lon:11, size:7, lan:"🇺🇸" },
-  { name: "mkk", lat:33, lon:45, size:6, lan:"🇯🇵" },
-  { name: "dharius", lat:15.8, lon:71.1, size:6, lan:"🇮🇳" },
-  { name: "tredmir", lat:84, lon:63, size:3, lan:"🇧🇷" },
-]; const updated = "20230221"
+  { name: "pride", lat:17.7, lon:63.5, size:7, lan:"🇺🇸" },
+  { name: "skade", lat:25, lon:71, size:3, lan:"🇺🇸" },
+  { name: "ra", lat:30, lon:84, size:5, lan:"🇺🇸" },
+  { name: "mimi", lat:85, lon:55, size:6, lan:"🇺🇸" },
+  // { name: "dodoheaven", lat:17.7, lon:63.5, size:9, lan:"🇯🇵" },
+  { name: "popculture", lat:45, lon:30, size:6, lan:"🇺🇸" },
+  { name: "nightmare", lat:80, lon:75, size:9, lan:"🇺🇸" },
+  // { name: "nightmare", lat:80, lon:75, size:9, lan:"🇨🇳" },
+  { name: "north", lat:50, lon:42, size:6, lan:"🇺🇸" },
+  // { name: "moriorinvictus", lat:78.2, lon:14, size:8, lan:"🇲🇽" },
+  // { name: "ascendents", lat:30.1, lon:11, size:7, lan:"🇺🇸" },
+  // { name: "dharius", lat:15.8, lon:71.1, size:6, lan:"🇮🇳" },
+  // { name: "tredmir", lat:84, lon:63, size:3, lan:"🇧🇷" },
+]; const updated = "20230222"
 
 
 const markers = [
