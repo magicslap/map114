@@ -28,7 +28,6 @@ const tribes = [
   { name: "chaos", lat:18.9, lon:81, size:8, lan:"🇺🇸" },
   { name: "moriorinvictus", lat:78.2, lon:14, size:8, lan:"🇲🇽" },
   { name: "ascendents", lat:30.1, lon:11, size:7, lan:"🇺🇸" },
-  { name: "dashwood9", lat:12.1, lon:50, size:5, lan:"🇯🇵" },
   { name: "mkk", lat:33, lon:45, size:6, lan:"🇯🇵" },
   { name: "dharius", lat:15.8, lon:71.1, size:6, lan:"🇮🇳" },
   { name: "tredmir", lat:84, lon:63, size:3, lan:"🇧🇷" },
