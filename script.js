@@ -29,6 +29,7 @@ const tribes = [
   // { name: "dodoheaven", lat:17.7, lon:63.5, size:9, lan:"🇯🇵" },
   { name: "popculture", lat:45, lon:30, size:6, lan:"🇺🇸" },
   { name: "nightmare", lat:78.8, lon:77.4, size:9, lan:"🇺🇸" },
+  { name: "kgb", lat:87.4, lon:51.0, size:9, lan:"?" },
   // { name: "nightmare", lat:80, lon:75, size:9, lan:"🇨🇳" },
   { name: "north", lat:51.5, lon:41.8, size:6, lan:"🇺🇸" },
   // { name: "moriorinvictus", lat:78.2, lon:14, size:8, lan:"🇲🇽" },
