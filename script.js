@@ -32,7 +32,9 @@ const tribes = [
   { name: "kgb", lat:87.4, lon:51.0, size:9, lan:"?" },
   // { name: "nightmare", lat:80, lon:75, size:9, lan:"🇨🇳" },
   { name: "north", lat:51.5, lon:41.8, size:6, lan:"🇺🇸" },
-  // { name: "moriorinvictus", lat:78.2, lon:14, size:8, lan:"🇲🇽" },
+  { name: "cuca", lat:78, lon:45, size:7, lan:"🇲🇽" },
+  { name: "pacosg", lat:38.7, lon:17.7, size:4, lan:"🇲🇽" },
+
   // { name: "ascendents", lat:30.1, lon:11, size:7, lan:"🇺🇸" },
   // { name: "dharius", lat:15.8, lon:71.1, size:6, lan:"🇮🇳" },
   // { name: "tredmir", lat:84, lon:63, size:3, lan:"🇧🇷" },
