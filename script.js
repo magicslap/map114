@@ -23,7 +23,7 @@ const style = {
 
 const tribes = [
   { name: "pride", lat:17.7, lon:63.5, size:7, lan:"🇺🇸" },
-  { name: "skade", lat:25, lon:71, size:3, lan:"🇺🇸" },
+  { name: "dragneel", lat:25, lon:71, size:3, lan:"🇺🇸" },
   { name: "ra", lat:30, lon:84, size:5, lan:"🇺🇸" },
   { name: "the4nation", lat:83.8, lon:60.1, size:6, lan:"🇺🇸" },
   // { name: "dodoheaven", lat:17.7, lon:63.5, size:9, lan:"🇯🇵" },
