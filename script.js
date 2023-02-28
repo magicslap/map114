@@ -35,10 +35,9 @@ const tribes = [
   { name: "kurumie", lat:81, lon:42, size:6, lan:"🇺🇸" },
   { name: "cuca", lat:78, lon:45, size:7, lan:"🇲🇽" },
   { name: "pacosg", lat:38.7, lon:17.7, size:4, lan:"🇲🇽" },
-  // { name: "dharius", lat:15.8, lon:71.1, size:6, lan:"🇮🇳" },
   // { name: "tredmir", lat:84, lon:63, size:3, lan:"🇧🇷" },
 ]; const updated = "20230222"
-
+// flags: 🇧🇷  🇮🇳
 
 const markers = [
   // { name: "tiny final sand", lat: 17.5, lon: 89.5 },
